@@ -1,0 +1,46 @@
+*{
+    margin: 7px;
+    padding: 5px;
+}
+
+
+
+header{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+
+main{
+    background-color: greenyellow;
+    padding: 9px;
+    border-radius: 10px;
+}
+
+.container{
+    font-size: xx-large;
+}
+.container-in{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 25px;
+}
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+.project-item{
+    background-color: yellow;
+}
+.ProjectTitle{
+    display: flex;
+    background-color: chartreuse;
+    justify-content: space-around;
+}
